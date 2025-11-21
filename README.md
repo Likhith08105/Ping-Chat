@@ -53,7 +53,7 @@ A real-time chat application built with React.js and Node.js, featuring instant 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sudarshanred05/Ping-Chat.git
+git clone https://github.com/Likhith08105/Ping-Chat.git
 cd Ping-Chat
 ```
 
