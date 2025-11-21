@@ -38,8 +38,9 @@ A real-time chat application built with React.js and Node.js, featuring instant 
 
 | Login Page | Chat Interface | Contact List |
 |------------|----------------|--------------|
-| ![Login](https://github.com/user-attachments/assets/0cc307ff-e6c2-4b79-a35f-4dbe8e3e8dd8) | ![Chat](https://github.com/user-attachments/assets/10531e68-355e-45a8-a4c9-9dc20f7c7cc2) | ![Contacts](https://github.com/user-attachments/assets/4830e209-0613-4389-a981-c222934a84a8) |
-| ![Register](https://github.com/user-attachments/assets/7323b3d5-f8c6-4d8f-8220-c59a72b8fdc8) | ![Emoji Picker](https://github.com/user-attachments/assets/9003c635-0fb0-46bb-adba-161d94c98afd) | |
+| ![Login](https://github.com/user-attachments/assets/0cc307ff-e6c2-4b79-a35f-4dbe8e3e8dd8) | ![Chat](https://github.com/user-attachments/assets/b35aa086-0675-4eda-9a16-15e69b0fa84c )| ![Contacts](https://github.com/user-attachments/assets/8f4cec48-4a4c-44a8-aa44-3140faebcbf4)|
+| ![Register](https://github.com/user-attachments/assets/7323b3d5-f8c6-4d8f-8220-c59a72b8fdc8) | ![Emoji Picker](https://github.com/user-attachments/assets/94faac84-a82d-480f-aca6-a6c21408f695)
+ | |
 
 
 
@@ -173,8 +174,8 @@ Ping-Chat/
 
 ## 👨‍💻 Author
 
-**Sudarshan Reddy**
-- GitHub: [@sudarshanred05](https://github.com/sudarshanred05)
+**Likhith Kumar**
+- GitHub: [@Likhith08105](https://github.com/Likhith08105)
 
 ## 🙏 Acknowledgments
 
@@ -184,5 +185,4 @@ Ping-Chat/
 - React community for amazing tools and libraries
 
 ---
-
-⭐ Star this repo if you find it helpful!
+ ⭐ Star this repo if you find it helpful!
